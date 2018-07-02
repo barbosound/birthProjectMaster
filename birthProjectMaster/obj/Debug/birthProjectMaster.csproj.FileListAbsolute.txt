@@ -1,0 +1,7 @@
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\bin\Debug\birthProjectMaster.exe.config
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\bin\Debug\birthProjectMaster.exe
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\bin\Debug\birthProjectMaster.pdb
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\obj\Debug\birthProjectMaster.csprojAssemblyReference.cache
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\obj\Debug\birthProjectMaster.csproj.CoreCompileInputs.cache
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\obj\Debug\birthProjectMaster.exe
+c:\users\pbarbolla\source\repos\birthProjectMaster\birthProjectMaster\obj\Debug\birthProjectMaster.pdb
